@@ -1,0 +1,7 @@
+|Mux
+A => Mux_Out.DATAB
+B => Mux_Out.DATAA
+Mux_Control => Mux_Out.OUTPUTSELECT
+Mux_Out <= Mux_Out.DB_MAX_OUTPUT_PORT_TYPE
+
+
